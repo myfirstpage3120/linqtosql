@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqtoSqlAssignment", "LinqtoSqlAssignment\LinqtoSqlAssignment.csproj", "{7FAE38C4-EE8D-432F-99A9-03FC851E1ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAE38C4-EE8D-432F-99A9-03FC851E1ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAE38C4-EE8D-432F-99A9-03FC851E1ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAE38C4-EE8D-432F-99A9-03FC851E1ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAE38C4-EE8D-432F-99A9-03FC851E1ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A1DF4AA-A9E9-4D16-B667-15C6138C26D7}
+	EndGlobalSection
+EndGlobal
